@@ -1,0 +1,2 @@
+com\yomance\web\config\enables\UseJacksonConfig.class
+com\yomance\web\config\enables\UseCorsConfig.class
