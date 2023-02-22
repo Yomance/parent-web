@@ -17,9 +17,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>bean</module>
-        <module>config</module>
-        <module>test</module>
+        <module>web-bean</module>
+        <module>web-config</module>
+        <module>web-test</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
