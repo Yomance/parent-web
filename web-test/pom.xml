@@ -12,7 +12,7 @@
     <artifactId>web-test</artifactId>
     <packaging>jar</packaging>
     <description>本模块用于测试其他模块</description>
-    <name>test</name>
+    <name>web-test</name>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

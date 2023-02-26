@@ -9,7 +9,7 @@
         <artifactId>web-parent</artifactId>
         <version>0.0.1</version>
     </parent>
-    <name>bean</name>
+    <name>web-bean</name>
 
     <artifactId>web-bean</artifactId>
     <packaging>jar</packaging>
